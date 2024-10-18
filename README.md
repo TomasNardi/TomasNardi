@@ -17,5 +17,5 @@
 <hr/>
 
 <h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=#FFFFFF&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=26&size=25&pause=800&color=F7F7F7&width=500&height=70&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Send+me+a+message+on+Linkedin;I'm+always+down+to+collab">
 </h4>
