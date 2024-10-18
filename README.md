@@ -1,11 +1,10 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to my Git Hub </h1>
 
 <!-- Agregar imagen aquí -->
 <div align="center">
   <img src="https://imgur.com/3AnYAVg.png" alt="" width="800px" />
 </div>
 
-<h2 align="center">Full stack web Programmer </h2>
 
 <hr/>
 <h3 align="center"> Languages-Frameworks-Tools </h3>
