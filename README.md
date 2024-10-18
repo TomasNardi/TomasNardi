@@ -6,7 +6,7 @@
 
   <hr/>
   <p>
-    👋 Hello! I've been building things since I was a kid. I love hardware tweaking and prime numbers - they are just so intriguing. Got my first Raspberry Pi in high school, since then my collection is increasing by every fall. In October 2019, I started a programming club in my college, @hackclubnmit with the support of @hackclub. You should definitely check it out. I've always been fascinated with programming, trying to learn as much as possible considering myself ♠️ jack of all trades. I try to stick by this one-liner - Implementing Science Fiction. Besides programming I enjoy 🏊 swimming, 🎮 gaming and 🏸 professional badminton.
+Hello! I've been building things since I was a kid. I got my first Raspberry Pi in high school, and since then my collection has been increasing every fall. In January 2023, after graduating as a licensed professional in hygiene and safety, I started studying my second career, programming, and managed to develop projects for large companies. I've always been fascinated with programming and achieved my dream of being able to dedicate myself to it, trying to learn as much as possible and teach what I've learned to others. Besides programming, I enjoy 🏋️‍♂️ training and 🎮 gaming.
   </p>
   <hr/>
 
