@@ -1,17 +1,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Tomas Nardi </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
 
-<!--
-**TomasNardi/TomasNardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Agregar imagen aquí -->
+<div align="center">
+  <img src="URL_DE_TU_IMAGEN" alt="Descripción de la imagen" width="300px" />
+</div>
 
-Here are some ideas to get you started:
+<h2 align="center">Full stack web Programmer </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,Css,javascript,nodejs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=py,django,anaconda,mysql,bootstrap" /><br>
+  <img src="https://skillicons.dev/icons?i=php,laravel" /><br>
+</div>
+<hr/>
