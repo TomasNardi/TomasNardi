@@ -6,7 +6,7 @@
 
   <hr/>
   <p>
-    👨‍💻 About Me:
+    <h2>👨‍💻 About Me:</h2>
 Hello! I've been building things since I was a kid. I got my first Raspberry Pi in high school, and since then my interest in systems has been increasing. In January 2023, after graduating with a bachelor's degree in Safety and Health, I started studying my second career, programming, and managed to develop projects for large companies. I've always been fascinated with programming and achieved my dream of being able to dedicate myself to it, trying to learn as much as possible and teach what I've learned to others. Besides programming, I enjoy 🏋️‍♂️ training and 🎮 gaming.
   </p>
   <hr/>
