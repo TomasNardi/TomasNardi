@@ -2,7 +2,7 @@
 
 <!-- Agregar imagen aquí -->
 <div align="center">
-  <img src="[https://imgur.com/3AnYAVg](https://imgur.com/3AnYAVg)" alt="Descripción de la imagen" width="300px" />
+  <img src="https://imgur.com/3AnYAVg" alt="" width="300px" />
 </div>
 
 <h2 align="center">Full stack web Programmer </h2>
