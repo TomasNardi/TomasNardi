@@ -16,6 +16,9 @@
 </div>
 <hr/>
 
-<h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=500&size=25&pause=800&color=F7F7F7&width=600&height=70&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;%C2%A1+Send+me+a+message+on+Linkedin+!++;I'm+always+down+to+collab+%F0%9F%98%80">
-</h4>
+<div align="center">
+  <h4>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=500&size=25&pause=800&color=F7F7F7&width=600&height=70&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;%C2%A1+Send+me+a+message+on+Linkedin+!++;I'm+always+down+to+collab+%F0%9F%98%80">
+  </h4>
+</div>
+
