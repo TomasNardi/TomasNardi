@@ -23,7 +23,8 @@
   <h4>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&weight=500&size=25&pause=800&color=F7F7F7&center=true&vCenter=true&width=600&height=70&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;%C2%A1+Send+me+a+message+on+Linkedin+!++;I'm+always+down+to+collab+%F0%9F%98%80">
   </h4>
-  
+  <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-Tomas%20Nardi-%230A66C2?style=social&logo=linkedin">
+
   <p align="center">
     <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
   </p>
