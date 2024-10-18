@@ -8,9 +8,7 @@
   <h3>Languages-Frameworks-Tools</h3>
 
   <div>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express" /><br>
-    <img src="https://skillicons.dev/icons?i=py,django,anaconda,mysql,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=php,laravel" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,py,django,anaconda,mysql,bootstrap,php,laravel" /><br>
   </div>
   <hr/>
 
