@@ -2,7 +2,7 @@
 
 <!-- Agregar imagen aquí -->
 <div align="center">
-  <img src="URL_DE_TU_IMAGEN" alt="Descripción de la imagen" width="300px" />
+  <img src="https://imgur.com/3AnYAVg" alt="Descripción de la imagen" width="300px" />
 </div>
 
 <h2 align="center">Full stack web Programmer </h2>
@@ -11,7 +11,7 @@
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,Css,javascript,nodejs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express" /><br>
   <img src="https://skillicons.dev/icons?i=py,django,anaconda,mysql,bootstrap" /><br>
   <img src="https://skillicons.dev/icons?i=php,laravel" /><br>
 </div>
