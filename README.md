@@ -5,10 +5,10 @@
   <img src="https://imgur.com/3AnYAVg.png" alt="" width="800px" />
 
   <hr/>
+  <div align="left">
+    <h2 style="margin: 0;">👨‍💻 About Me:</h2>
+  </div>
   <p>
-    <div align="left">
-      <h2>👨‍💻 About Me:</h2>
-    </div>
     Hello! I've been building things since I was a kid. I got my first Raspberry Pi in high school, and since then my interest in systems has been increasing. In January 2023, after graduating with a bachelor's degree in Safety and Health, I started studying my second career, programming, and managed to develop projects for large companies. I've always been fascinated with programming and achieved my dream of being able to dedicate myself to it, trying to learn as much as possible and teach what I've learned to others. Besides programming, I enjoy 🏋️‍♂️ training and 🎮 gaming.
   </p>
   <hr/>
