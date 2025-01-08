@@ -4,6 +4,9 @@
   <!-- Agregar imagen aquí -->
   <img src="https://imgur.com/3AnYAVg.png" alt="" width="800px" />
 
+  <hr />
+  
+
   <div>
   <!-- Enlace al Proyecto Actual -->
   <a href="https://deltaold.onrender.com" target="_blank" style="text-decoration: none;">
