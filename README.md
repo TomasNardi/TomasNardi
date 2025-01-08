@@ -10,8 +10,8 @@
   <div>
   <!-- Enlace al Proyecto Actual -->
   <a href="https://deltaold.onrender.com" target="_blank">
-    <div>
-      <strong style="font-size: 18px; color: white; font-family: 'Arial', sans-serif;">🚀 Check Out My Current Project: Delta Old</strong>
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge">
+  </a>
     </div>
   </a>
 </div>
