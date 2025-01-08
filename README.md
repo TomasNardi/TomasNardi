@@ -14,10 +14,10 @@
     src="https://img.shields.io/badge/🚀 Check Out My Current Project: Delta Old-000000?style=for-the-badge" 
     alt="Website Badge" 
   </a>
-  <p>
-    test
-  </p>
 </div>
+  <p>
+   ⚠️ Note: The project is hosted on a free tier platform and is not yet in full production. As a result, the first request may experience a delay of 50 seconds or more while the server starts up. Subsequent requests should load faster. 🚀
+  </p>
 
   <hr />
   <div align="left">
