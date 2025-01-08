@@ -9,15 +9,8 @@
 
   <div>
   <!-- Enlace al Proyecto Actual -->
-  <a href="https://deltaold.onrender.com" target="_blank" style="text-decoration: none;">
-    <div style="
-      background: linear-gradient(90deg, #ff8c00, #ffa500, #ff8c00);
-      padding: 15px 25px;
-      border-radius: 10px;
-      display: inline-block;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-      transition: transform 0.3s, box-shadow 0.3s;
-    " onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 12px rgba(0, 0, 0, 0.4)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';">
+  <a href="https://deltaold.onrender.com" target="_blank">
+    <div>
       <strong style="font-size: 18px; color: white; font-family: 'Arial', sans-serif;">🚀 Check Out My Current Project: Delta Old</strong>
     </div>
   </a>
