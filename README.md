@@ -11,12 +11,12 @@
   <!-- Enlace al Proyecto Actual -->
   <a href="https://deltaold.onrender.com" target="_blank">
   <img 
-    src="https://img.shields.io/badge/🚀 Check Out My Current Project: Delta Old-000000?style=for-the-badge&logo=About.me&logoColor=white" 
+    src="https://img.shields.io/badge/🚀 Check Out My Current Project: Delta Old-000000?style=for-the-badge" 
     alt="Website Badge" 
-    style="transform: scale(1.2); display: inline-block; margin: 10px;">
-</a>
-    </div>
   </a>
+  <p>
+    test
+  </p>
 </div>
 
   <hr />
