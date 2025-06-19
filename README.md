@@ -18,7 +18,10 @@
   <hr />
   <div align="left">
     <p>
-      Hello! I've been building things since I was a kid. I got my first Raspberry Pi in high school, and since then my interest in systems has been increasing. In January 2023, after graduating with a bachelor's degree in Safety and Health, I started studying my second career, programming, and managed to develop projects for large companies. I've always been fascinated with programming and achieved my dream of being able to dedicate myself to it, trying to learn as much as possible and teach what I've learned to others. Besides programming, I enjoy 🏋️‍♂️ training and 🎮 gaming.
+<p>
+Hello! I've been building things since I was a kid, and my interest in systems has only grown over time. In January 2023, after earning a bachelor's degree in Safety and Health, I began studying my second career: programming. Since then, I've had the opportunity to develop projects for large companies. Programming has always fascinated me, and achieving the dream of dedicating myself to it has been incredibly fulfilling. I’m constantly learning and enjoy sharing what I’ve learned with others. Outside of coding, I enjoy 🏋️‍♂️ training and 🎮 gaming.
+</p>
+
     </p>
   </div>
 
